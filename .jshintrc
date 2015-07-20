@@ -1,0 +1,23 @@
+{
+    "evil": true,
+    "regexdash": true,
+    "browser": true,
+    "latedef": "nofunc",
+    "trailing": false,
+    "sub": true,
+    "curly": true,
+    "eqeqeq": true,
+    "immed": true,
+    "laxbreak": true,
+    "laxcomma": true,
+    "undef": true,
+    "globals": {
+        "console": true,
+        "define": true,
+        "require": true,
+        "$": true,
+        "jQuery": true,
+        "de": true,
+        "core": true
+    }
+}
